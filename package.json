@@ -1,0 +1,14 @@
+{
+  "name": "grpc-over-http2",
+  "version": "1.0.0",
+  "author": "Nymphium <s1311350@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/google-protobuf": "^3.15.0",
+    "@types/node": "^14.14.41",
+    "prettier": "^2.2.1",
+    "ts-node": "^9.1.1",
+    "ts-protoc-gen": "^0.14.0",
+    "typescript": "^4.2.4"
+  }
+}
